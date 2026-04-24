@@ -18,7 +18,7 @@ This analysis answers the following key questions:
 ---
 
 ## Dataset
-- Source: Electric Vehicle Population Data (Data.gov) https://catalog.data.gov/dataset/electric-vehicle-population-data
+- Source: Electric Vehicle Population Data (Data.gov)<br>https://catalog.data.gov/dataset/electric-vehicle-population-data
 - Records: ~280K+ vehicles
 - Key fields:
   - `Model Year`
@@ -166,9 +166,7 @@ Using clustering (price vs range), EVs can be grouped into:
 
 ## Repository Structure
 
-EV-Population-Analysis
-|- WA EV Insights Py Code.py
-|- README.md
+EV-Population-Analysis<br>|- WA EV Insights Py Code.py<br>|- README.md
 
 ---
 
