@@ -166,7 +166,7 @@ Using clustering (price vs range), EVs can be grouped into:
 
 ## Repository Structure
 
-EV-Population-Analysis<br>|- WA EV Insights Py Code.py<br>|- README.md
+EV-Population-Analysis<br>|- README.md<br>|- WA EV Insights Py Code.py
 
 ---
 
