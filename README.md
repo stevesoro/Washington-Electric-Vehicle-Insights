@@ -2,7 +2,6 @@
 
 ## Overview
 This project analyzes electric vehicle (EV) adoption using a public dataset from Data.gov.
-The datasets are available at: https://catalog.data.gov/dataset/electric-vehicle-population-data
 The objective is to uncover **market trends, geographic patterns, and product positioning insights** that can inform **business strategy, pricing, and policy decisions**.
 
 ---
@@ -19,7 +18,7 @@ This analysis answers the following key questions:
 ---
 
 ## Dataset
-- Source: Electric Vehicle Population Data (Data.gov)
+- Source: Electric Vehicle Population Data (Data.gov) https://catalog.data.gov/dataset/electric-vehicle-population-data
 - Records: ~280K+ vehicles
 - Key fields:
   - `Model Year`
